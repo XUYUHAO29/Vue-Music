@@ -1,11 +1,12 @@
 # 个人风格音乐网站
 感谢大佬提供的网易云的接口，附上该接口的链接：https://github.com/Binaryify/NeteaseCloudMusicApi
 ## 技术选型
-Vue3 + pinia + axios
+Vue3 + Vue-router + pinia + axios
 ## 安装
 包管理器是yarn，所以项目克隆好了直接yarn install等待安装依赖就行，默认打开的端口是8080
 ## 功能实现
 已实现：歌曲切换、歌词滚动、用户登录
+
 待追加：搜索、历史歌曲查询
 ## 详细界面
 精品歌单
