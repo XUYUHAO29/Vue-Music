@@ -5,7 +5,8 @@ Vue3 + pinia + axios
 ## 安装
 包管理器是yarn，所以项目克隆好了直接yarn install等待安装依赖就行，默认打开的端口是8080
 ## 功能实现
-
+已实现：歌曲切换、歌词滚动、用户登录
+待追加：搜索、历史歌曲查询
 ## 详细界面
 精品歌单
 ![image](https://user-images.githubusercontent.com/94585396/216762107-0be75f5c-a2b6-4103-a366-69c174ce36bf.png)
