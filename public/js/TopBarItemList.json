@@ -1,0 +1,24 @@
+{
+  "leftLists": [
+    {
+      "itemName": "精选歌单",
+      "itemId": "001",
+      "router_path": "",
+      "router_name": "songlists"
+    },
+    {
+      "itemName": "每日推荐",
+      "itemId": "002",
+      "router_path": "",
+      "router_name": "recommendedDaily"
+    }
+  ],
+  "rightLists": [
+    {
+      "itemName": "登录 | 注册",
+      "itemId": "004",
+      "router_path": "",
+      "router_name": "LogRegister"
+    }
+  ]
+}
