@@ -4,6 +4,7 @@
 Vue3 + Vue-router + pinia + axios
 ## 安装
 包管理器是yarn，所以项目克隆好了直接yarn install等待安装依赖就行，默认打开的端口是8080
+访问的接口端口号是3000，如果需要更改请在src/utils/api_method.js文件下的： _axios.defaults.baseURL = "http://localhost:3000";更改需要访问的接口
 ## 功能实现
 已实现：歌曲切换、歌词滚动、用户登录
 
